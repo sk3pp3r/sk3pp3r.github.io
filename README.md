@@ -28,9 +28,3 @@ Consistently hit targets, improve best practices and organized time efficiently.
 |Data-Bases                                       | RDBMS: MS-SQL 2005-2016. MySQL distributions (MariaDb, Percona)|
 |Storage                                          | IBM Storwize v7000 (SAN), Dell EMC Isilon (NAS)|
 
-
-***
-
-### Contact Me
-
-Fell free to get i touch in my [LinkedIn](https://www.linkedin.com/in/haimc/)
