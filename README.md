@@ -12,6 +12,17 @@ Thinking outside the box, creative solutions with attention to the needs of the 
   
 Consistently hit targets, improve best practices and organized time efficiently.
 
+***
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+***
 
 # Skills
 |Domain|Skills|
@@ -27,7 +38,7 @@ Infrastructure | Active Directory 2000-2016. DHCP. DNS. WINS. Group Policy. FTP 
 |Data-Bases|RDBMS: MS-SQL 2005-2016. MySQL distributions (MariaDb, Percona)|
 |Storage|IBM Storwize v7000 (SAN), Dell EMC Isilon (NAS)|
 
-
+***
 
 ### Fell free to get i touch in my [LinkedIn](https://www.linkedin.com/in/haimc/) 
 
