@@ -1,9 +1,9 @@
-# Welcome to My Page!
+# Welcome to my GitHub Page!
 
-# About me
+## About me
 
 My name is **Haim Cohen**  a IT Infrastructure Specialist & DevOps Engineer. 
-A DevOps & Linux/Microsoft engineer with Over 15 Years of experience hardware, and software, including analysis, planning, design, development, implementation, provisioning, upgrade, day-to-day operations and manage different levels of projects.  
+A DevOps & Linux/Microsoft engineer with Over 15 Years of experience hardware, and software, including analysis, planning, design, development, implementation, provisioning, upgrade, day-to-day operations and manage different levels of projects.
  
 Specializing in Microsoft, VMware, Linux, and Scripts.  
 Deep knowledge of script and automation language for IT environment.  
@@ -13,7 +13,7 @@ Thinking outside the box, creative solutions with attention to the needs of the 
 Consistently hit targets, improve best practices and organized time efficiently.
 
 ***
-# Skills
+## Skills
 
 |Domain                                           | Skills|
 |:--                                              | :--|
@@ -31,5 +31,6 @@ Consistently hit targets, improve best practices and organized time efficiently.
 
 ***
 
-### Fell free to get i touch in my [LinkedIn](https://www.linkedin.com/in/haimc/) 
+### Contact Me
 
+Fell free to get i touch in my [LinkedIn](https://www.linkedin.com/in/haimc/)
