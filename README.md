@@ -15,16 +15,17 @@ Consistently hit targets, improve best practices and organized time efficiently.
 ***
 ###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Domain        | Skills          | 
+|:-------------|:------------------|
+| ok           | good swedish fish | 
+| out of stock | good and plenty   | 
+| ok           | good `oreos`      | 
+| ok           | good `zoute` drop | 
 
 ***
 
 # Skills
+
 |Domain|Skills|
 |:--|:--|
 |DevOps Culture| AWS (VPC, IAM, EC2), Git&Github, Ansible, Docker Containers, Kubernetes(K8s), CI/CD Pipeline - Jenkins, Prometheus, Zabbix, Grafana, MySQL, Python, Bash, Vagrant|
