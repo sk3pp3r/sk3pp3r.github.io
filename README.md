@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is **Haim Cohen**  a IT Infrastructure Specialist & DevOps Engineer. 
+My name is **Haim Cohen** a DevOps & Infrastructure Engineer. 
 A DevOps & Linux/Microsoft engineer with Over 15 Years of experience hardware, and software, including analysis, planning, design, development, implementation, provisioning, upgrade, day-to-day operations and manage different levels of projects.
  
 Specializing in Microsoft, VMware, Linux, and Scripts.  
