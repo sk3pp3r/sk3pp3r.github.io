@@ -1,17 +1,10 @@
-# Welcome to my GitHub Page!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Haim Cohen
+==================================================================================================================================
 
-## About me
+DevOps & Infrastructure Guru
+----------------------------
 
-My name is **Haim Cohen** a DevOps & Infrastructure Engineer. 
-A DevOps & Linux/Microsoft engineer with Over 15 Years of experience hardware, and software, including analysis, planning, design, development, implementation, provisioning, upgrade, day-to-day operations and manage different levels of projects.
- 
-Specializing in Microsoft, VMware, Linux, and Scripts.  
-Deep knowledge of script and automation language for IT environment.  
-  
-Thinking outside the box, creative solutions with attention to the needs of the organization, meeting deadlines and delivering.  
-  
-Consistently hit targets, improve best practices and organized time efficiently.
-
+A DevOps & Linux/Microsoft engineer with Over 15 Years of experience hardware, and software, including analysis, planning, design, development, implementation, provisioning, upgrade, day-to-day operations and manage different levels of projects. Specializing in Microsoft, VMware, Linux, and Scripts. Deep knowledge of script and automation language for IT environment. Thinking outside the box, creative solutions with attention to the needs of the organization, meeting deadlines and delivering. Consistently hit targets, improve best practices and organized time efficiently.
 ***
 ## Skills
 
@@ -27,4 +20,23 @@ Consistently hit targets, improve best practices and organized time efficiently.
 |Backup Solution                                  | IBM Spectrum Protect (formerly Tivoli Storage Manager - TSM)|
 |Data-Bases                                       | RDBMS: MS-SQL 2005-2016. MySQL distributions (MariaDb, Percona)|
 |Storage                                          | IBM Storwize v7000 (SAN), Dell EMC Isilon (NAS)|
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/sk3pp3r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/haimc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/haim-cohen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sk3pp3r"><img src="https://github-readme-stats.vercel.app/api?username=sk3pp3r&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sk3pp3r's GitHub stats" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/sk3pp3r/cheat-sheet-pdf" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sk3pp3r&repo=cheat-sheet-pdf&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/sk3pp3r/speedtest2zabbix" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sk3pp3r&repo=speedtest2zabbix&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/bsNJ3ySu2"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
