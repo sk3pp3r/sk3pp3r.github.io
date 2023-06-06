@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 DevOps & Infrastructure Guru
 ----------------------------
 
-A DevOps & Linux/Microsoft engineer with Over 15 Years of experience hardware, and software, including analysis, planning, design, development, implementation, provisioning, upgrade, day-to-day operations and manage different levels of projects. 5555 in Microsoft, VMware, Linux, and Scripts. Deep knowledge of script and automation language for IT environment. Thinking outside the box, creative solutions with attention to the needs of the organization, meeting deadlines and delivering. Consistently hit targets, improve best practices and organized time efficiently.
+A DevOps & Linux/Microsoft engineer with Over 15 Years of experience hardware, and software, including analysis, planning, design, development, implementation, provisioning, upgrade, day-to-day operations and manage different levels of projects. Specializing in Microsoft, VMware, Linux, and Scripts. Deep knowledge of script and automation language for IT environment. Thinking outside the box, creative solutions with attention to the needs of the organization, meeting deadlines and delivering. Consistently hit targets, improve best practices and organized time efficiently.
 
 ### Socials
 
