@@ -6,6 +6,10 @@ DevOps & Infrastructure Guru
 
 A DevOps & Linux/Microsoft engineer with Over 15 Years of experience hardware, and software, including analysis, planning, design, development, implementation, provisioning, upgrade, day-to-day operations and manage different levels of projects. Specializing in Microsoft, VMware, Linux, and Scripts. Deep knowledge of script and automation language for IT environment. Thinking outside the box, creative solutions with attention to the needs of the organization, meeting deadlines and delivering. Consistently hit targets, improve best practices and organized time efficiently.
 
+### My cool streamlit applications
+* https://subnet-calc.streamlit.app 
+* https://infra-name.streamlit.app
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/sk3pp3r" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/haimc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/3752715/haim-cohen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
